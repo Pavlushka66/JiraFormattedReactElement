@@ -1,0 +1,29 @@
+{
+  "name": "JiraFormattedReactElement",
+  "version": "1.0.0",
+  "description": "React element that shows jira formatted text as react dom elements",
+  "main": "jiraFormattedReactElement.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavlushka66/JiraFormattedReactElement.git"
+  },
+  "keywords": [],
+  "author": "Pavel Bazhin <pavlushka66@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pavlushka66/JiraFormattedReactElement/issues"
+  },
+  "homepage": "https://github.com/Pavlushka66/JiraFormattedReactElement#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "typescript": "^3.5.3"
+  }
+}
