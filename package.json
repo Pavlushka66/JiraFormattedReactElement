@@ -1,5 +1,5 @@
 {
-  "name": "JiraFormattedReactElement",
+  "name": "jira-formatted-react-element",
   "version": "0.0.1",
   "description": "React element that shows jira formatted text as react dom elements",
   "main": "jiraFormattedReactElement.tsx",
